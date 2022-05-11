@@ -408,6 +408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   segmentPrefab: {fileID: 218339995396215399, guid: fb547f7773f4cc344aec905e694f0408, type: 3}
+  initialSize: 4
 --- !u!1 &850474069
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,7 +422,7 @@ GameObject:
   - component: {fileID: 850474070}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -530,7 +531,7 @@ GameObject:
   - component: {fileID: 1440877582}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -639,7 +640,7 @@ GameObject:
   - component: {fileID: 1612581150}
   m_Layer: 0
   m_Name: Wall
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -748,7 +749,7 @@ GameObject:
   - component: {fileID: 1876257424}
   m_Layer: 0
   m_Name: 'Wall '
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -407,6 +407,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d3ad97b72558ac48aff80b849444be3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  segmentPrefab: {fileID: 218339995396215399, guid: fb547f7773f4cc344aec905e694f0408, type: 3}
 --- !u!1 &850474069
 GameObject:
   m_ObjectHideFlags: 0
@@ -857,7 +858,7 @@ GameObject:
   - component: {fileID: 1891753707}
   m_Layer: 0
   m_Name: Apple
-  m_TagString: Untagged
+  m_TagString: Apple
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
